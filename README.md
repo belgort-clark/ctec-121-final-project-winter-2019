@@ -1,1 +1,1 @@
-# ctec-121-final-project-winter2019-part-1
+# CTEC 121 Final Project Winter 2019 Part 1
