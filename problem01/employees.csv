@@ -1,0 +1,101 @@
+record_id,employee_id,first_name,last_name,department_name,salary,marital_status,start_date
+1,100000,Callie,Sanford,Advertising,91276,Married,03/08/19
+2,100001,Grady,Richardson,Tech Support,91456,Common-Law,06/13/19
+3,100002,Talon,Castro,Tech Support,59907,Common-Law,09/26/18
+4,100003,Abel,William,Public Relations,41737,Divorced,08/05/18
+5,100004,Kiona,Acosta,Advertising,43273,Married,09/12/18
+6,100005,Dale,Silva,Payroll,58918,Single,07/30/18
+7,100006,Ralph,Lowe,Customer Relations,78809,Common-Law,03/21/19
+8,100007,Russell,Gonzalez,Sales and Marketing,65481,Married,10/25/19
+9,100008,Kitra,Sawyer,Customer Service,43542,Married,08/06/19
+10,100009,Yuri,Clay,Customer Relations,46834,Married,06/06/19
+11,100010,Preston,Ramsey,Tech Support,73541,Married,11/10/19
+12,100011,Sage,Fuentes,Sales and Marketing,60172,Single,01/07/19
+13,100012,Claudia,Vargas,Media Relations,59657,Single,08/14/19
+14,100013,Priscilla,Hinton,Customer Relations,92065,Common-Law,10/21/18
+15,100014,Jamalia,Downs,Research and Development,55649,Common-Law,09/14/18
+16,100015,Bo,Cain,Sales and Marketing,42693,Divorced,09/18/19
+17,100016,Eagan,Boone,Customer Service,87954,Married,01/09/19
+18,100017,Channing,Pennington,Human Resources,94077,Married,11/11/18
+19,100018,Buckminster,Gilbert,Accounting,52455,Single,12/04/18
+20,100019,Noelani,Carey,Public Relations,43343,Married,12/26/18
+21,100020,Vielka,Duran,Public Relations,28560,Common-Law,05/04/19
+22,100021,Nigel,Harris,Sales and Marketing,91670,Divorced,10/04/19
+23,100022,Cade,Rojas,Quality Assurance,43317,Common-Law,09/17/19
+24,100023,Stone,Christian,Finances,77352,Common-Law,07/13/18
+25,100024,Hoyt,Woodard,Asset Management,47211,Divorced,06/15/19
+26,100025,Francesca,Barber,Finances,22606,Divorced,07/14/19
+27,100026,Xavier,Petersen,Advertising,46857,Married,10/03/18
+28,100027,Taylor,Jacobs,Research and Development,34235,Common-Law,09/11/18
+29,100028,Marvin,Pitts,Asset Management,72971,Single,05/02/19
+30,100029,Carson,Howe,Finances,41282,Common-Law,08/04/19
+31,100030,Cameran,Hancock,Tech Support,77455,Single,07/30/18
+32,100031,Emerald,Boyle,Public Relations,66861,Common-Law,07/04/18
+33,100032,Audra,Mccarty,Advertising,77781,Single,06/22/18
+34,100033,Amethyst,Patrick,Customer Relations,46126,Married,02/16/20
+35,100034,Alden,Dawson,Legal Department,39927,Divorced,01/20/20
+36,100035,Cassandra,Richmond,Finances,31595,Married,03/23/19
+37,100036,Tucker,Payne,Public Relations,76768,Common-Law,06/29/18
+38,100037,Warren,Oneill,Media Relations,93308,Divorced,08/18/18
+39,100038,Lev,Briggs,Public Relations,58890,Single,06/24/19
+40,100039,Zephr,Castillo,Research and Development,61993,Common-Law,12/27/19
+41,100040,Yasir,Schultz,Advertising,59378,Common-Law,11/29/18
+42,100041,Cairo,Bradshaw,Advertising,28726,Divorced,02/09/20
+43,100042,Moses,Kramer,Tech Support,38151,Divorced,06/09/18
+44,100043,Rae,Stokes,Public Relations,99821,Married,08/18/19
+45,100044,Madonna,Parrish,Finances,43540,Divorced,09/02/19
+46,100045,Isabella,Key,Customer Service,99405,Single,08/19/18
+47,100046,Alexa,Wheeler,Customer Relations,71839,Married,03/21/18
+48,100047,Elvis,Rosales,Research and Development,95880,Common-Law,08/15/19
+49,100048,Fatima,Ryan,Finances,27872,Married,08/22/18
+50,100049,Piper,Richmond,Tech Support,29814,Married,01/05/19
+51,100050,Declan,Mcgee,Human Resources,28141,Married,01/12/20
+52,100051,Ivory,Sawyer,Quality Assurance,68245,Single,05/24/19
+53,100052,Tallulah,Pierce,Legal Department,87491,Common-Law,09/20/19
+54,100053,Donovan,Brock,Customer Service,38688,Divorced,04/08/19
+55,100054,Rhona,Garza,Customer Relations,45489,Single,03/31/18
+56,100055,Elmo,Holloway,Legal Department,94831,Single,09/10/18
+57,100056,Dale,Henson,Public Relations,47304,Common-Law,04/11/18
+58,100057,Hanae,Singleton,Customer Relations,25151,Married,03/09/19
+59,100058,Hilel,Clemons,Research and Development,77699,Common-Law,08/16/18
+60,100059,Gareth,Sparks,Finances,63804,Common-Law,09/28/18
+61,100060,Uta,Fitzgerald,Customer Service,20018,Common-Law,11/02/19
+62,100061,Halee,Cervantes,Advertising,61225,Single,11/30/19
+63,100062,Cameron,Flores,Customer Service,27084,Married,09/16/18
+64,100063,Evelyn,Park,Sales and Marketing,45145,Common-Law,11/24/19
+65,100064,Ahmed,Solis,Media Relations,88663,Single,07/19/19
+66,100065,Silas,Hebert,Legal Department,81835,Married,01/08/20
+67,100066,Noelle,Cline,Quality Assurance,52467,Divorced,10/03/18
+68,100067,Vivian,Adkins,Customer Relations,90617,Divorced,08/26/18
+69,100068,Laurel,Skinner,Sales and Marketing,34211,Divorced,11/29/18
+70,100069,Cathleen,Buckner,Media Relations,66883,Single,04/08/19
+71,100070,Gregory,Tyson,Customer Relations,93719,Married,07/19/19
+72,100071,Buckminster,Castillo,Research and Development,99037,Single,05/11/18
+73,100072,Kerry,Padilla,Tech Support,36835,Divorced,02/08/20
+74,100073,Myles,Vance,Legal Department,66859,Single,10/05/18
+75,100074,Bell,Day,Quality Assurance,95638,Married,08/13/19
+76,100075,Bruno,Ross,Payroll,86631,Common-Law,07/05/18
+77,100076,Emily,Christensen,Asset Management,70284,Single,03/11/18
+78,100077,Kaitlin,Atkinson,Accounting,26943,Married,08/07/18
+79,100078,Venus,Cameron,Legal Department,83793,Married,11/01/19
+80,100079,Shaine,Ware,Public Relations,88864,Divorced,04/09/19
+81,100080,Prescott,Castaneda,Sales and Marketing,44586,Single,04/13/18
+82,100081,Ralph,Barrera,Advertising,78121,Married,12/30/18
+83,100082,Nevada,Steele,Customer Service,83673,Common-Law,06/13/18
+84,100083,Meredith,Clemons,Sales and Marketing,52297,Married,02/04/20
+85,100084,Joelle,Montgomery,Human Resources,25864,Divorced,12/28/19
+86,100085,Regan,Evans,Sales and Marketing,92707,Common-Law,12/28/18
+87,100086,Deborah,Marshall,Advertising,36606,Common-Law,10/18/18
+88,100087,Gregory,Velasquez,Quality Assurance,82350,Single,04/24/19
+89,100088,Geoffrey,Soto,Quality Assurance,66843,Common-Law,01/29/19
+90,100089,Henry,Roberson,Payroll,33520,Single,02/06/19
+91,100090,Jakeem,Price,Legal Department,56809,Married,07/19/19
+92,100091,Olga,Todd,Research and Development,80897,Married,10/30/18
+93,100092,Hakeem,Sheppard,Legal Department,22746,Divorced,09/30/19
+94,100093,Tanner,Mcintosh,Human Resources,58094,Married,02/02/20
+95,100094,Daniel,Blevins,Asset Management,37766,Single,03/23/18
+96,100095,Lane,Flores,Payroll,81453,Single,01/20/20
+97,100096,Leah,Valencia,Customer Service,63752,Married,01/30/20
+98,100097,Quyn,Pratt,Customer Service,92641,Married,07/04/18
+99,100098,Wyoming,Melton,Customer Relations,57334,Single,01/22/20
+100,100099,Trevor,Turner,Sales and Marketing,35778,Single,02/04/20
