@@ -1,4 +1,4 @@
-# CTEC 121 - Final Project Probleme No. 1
+# CTEC 121 - Final Project Problem No. 1
 
 ## Overview
 
