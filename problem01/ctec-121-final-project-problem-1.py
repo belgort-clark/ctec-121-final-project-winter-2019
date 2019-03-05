@@ -1,6 +1,26 @@
 # CTEC 121 Final Project
 # Problem No. 1
-# Your Name
+# YOUR NAME
+
+'''
+PROGRAM OVERVIEW:
+===============================
+
+
+IPO
+===============================
+INPUTS:
+
+
+PROCESSES
+
+
+OUTPUTS:
+
+
+
+'''
+
 
 class Employee:
     def __init__(self,person):
