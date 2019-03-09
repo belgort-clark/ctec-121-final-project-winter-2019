@@ -21,6 +21,7 @@ OUTPUTS:
 
 '''
 
+from os.path import dirname, join
 
 class Employee:
     def __init__(self,person):
@@ -33,7 +34,7 @@ class Employee:
         self.__marital_status = person[6]
 
     def setRaise(self,raiseAmount):
-        self.__salary = self.__salary * raiseAmount
+        self.__salary = self.__salary * (1 + raiseAmount)
         return self.__salary
 
     def getSalary(self):
@@ -73,7 +74,10 @@ def main():
 
     staff = []
 
-    employeeFile = open('employees.csv','r')
+    current_dir = dirname(__file__)
+    file_path = join(current_dir, "./employees.csv")
+
+    employeeFile = open(file_path,'r')
     employeeRaisesFile = open('employee_raises.csv','w')
 
     fileHeader = employeeFile.readline().rstrip().split(',')
