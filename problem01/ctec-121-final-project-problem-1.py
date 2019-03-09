@@ -1,5 +1,5 @@
 # CTEC 121 Final Project
-# Problem No. 1
+# Part 2 of 2
 # YOUR NAME
 
 '''

@@ -2,9 +2,7 @@
 
 ## Overview
 
-The Final Project consists of two Parts. Both parts are due by 10 AM on Monday, March 18th, 2019.
-
-The Second Part can be found in Canvas in the Module named **FINAL PROJECT**
+The Final Project consists of two Parts. See Canvas for more information.
 
 The details for the problem are provided in a README.MD file within the problem01 folder.
 
